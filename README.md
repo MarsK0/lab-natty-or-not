@@ -23,19 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Landing page gerada por IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Lovable
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Só apliquei o input
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Link](https://acid-green-dev-glow.lovable.app)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Chega a ser meme.
 ```
 
 ### Exemplos e Insigths
